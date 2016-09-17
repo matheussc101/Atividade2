@@ -13,7 +13,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <!-- Para mostrar os caracteres especiais corretamente. -->
-    <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
+    <project.build.sourceEncoding>ISO-8859-1</project.build.sourceEncoding>
     <!-- Para o Eclipse n�o reclamar que o "web.xml" est� faltado. -->
     <failOnMissingWebXml>false</failOnMissingWebXml>
   </properties>
